@@ -1,4 +1,4 @@
-```markdown
+
 # Gym Progress Tracker
 #### Video Demo: https://youtu.be/YourVideoDemoURL
 #### Creator: Diego Diaz
@@ -111,4 +111,3 @@ Gym Progress Tracker merges robust functionality with an intuitive user interfac
 **Credits:**  
 Developed by Diego Diaz  
 *(CHATGPT was used as a helper tool to resolve certain design challenges and amplify aspects of this assignment)*
-```
